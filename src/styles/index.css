@@ -1,11 +1,14 @@
-/* 
+body {
+background-color: #242424;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.card-style {
+    margin-top: 6rem;
+    height: 20rem;
+    width: 15rem;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(193, 163, 221);
+    color:aqua;
+  }
+  
